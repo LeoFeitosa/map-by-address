@@ -18,6 +18,6 @@ function getFrameGoogleMaps($endereco)
   return '<iframe src=https://maps.google.com/maps?q='.$latitude.','.$longitude.'&hl=pt-BR&lr=lang_pt&z=16&amp&output=embed width=600 height=450 frameborder=0 style="border:0" allowfullscreen></iframe>';
 }
 
-$endereco = 'cptm itaquaquecetuba';
+$endereco = 'praça da sé';
 
 echo getFrameGoogleMaps($endereco);
