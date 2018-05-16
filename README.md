@@ -1,5 +1,5 @@
 # map-by-address
-Displays the location on the map using the address as a parameter.
+Displays a location on the map within an iframe using the address as a parameter.
 
 <hr>
 
